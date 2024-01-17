@@ -1,3 +1,3 @@
 ## Interview Questions
 
-#### [JavaScript Questions](https://github.com/SakibAlHasan10/Interview-Questions/tree/main/JavaScript-Interview-Questions#readme)
+#### [JavaScript Questions](https://github.com/SakibAlHasan10/JavaScript-Interview-Questions/blob/main/README.md)
